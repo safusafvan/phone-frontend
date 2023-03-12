@@ -1,0 +1,20 @@
+.main-logo{
+padding-left: 10%;
+
+font-size: x-large !important;
+font-weight: bold;
+color: rgb(224, 185, 199) !important;
+}
+
+
+
+.login-signup{
+    padding-left: 80% !important;
+ 
+}
+.clr{
+    color: aliceblue !important;
+}
+.regi{
+    width: 20% !important;
+}

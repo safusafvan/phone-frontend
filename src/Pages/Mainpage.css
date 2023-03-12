@@ -1,0 +1,24 @@
+.side-img{
+    margin-top: 30px;
+   width: 100% !important;
+}
+.cards{
+    margin-top:50px;
+   
+}
+.cards{
+    padding-left: 10%;
+    padding-right: 10%;
+    width: 100%;
+    
+    background-image: url(../img/bk1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.phone-view{
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 30px;
+}
